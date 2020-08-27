@@ -7,5 +7,9 @@
     "sass": "node-sass -w  scss/ -o dist/css/ --recursive"
   },
   "author": "\"Ovie Umukoro\"",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {}
 }
