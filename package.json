@@ -11,5 +11,13 @@
   "dependencies": {
     "node-sass": "^4.14.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovidot006/my_portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ovidot006/my_portfolio/issues"
+  },
+  "homepage": "https://github.com/ovidot006/my_portfolio#readme"
 }
